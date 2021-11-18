@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/TWZ4M4r/photo-2021-11-12-08-59-06.jpg" width="300" height="300">
+  <img src="https://i.ibb.co/C6zVqWV/1637216717790logo.png" width="300" height="300">
   <h1>🔰@ »KING_TECHPRO BOT @🔰</h1>
 </div>
 <p align="center">
@@ -48,12 +48,12 @@
     <img src="https://img.shields.io/static/v1?label=Author&message=@NIRMAL%20GAMAGE&color=purple&style=plastic">
 </a>
   <a href="https://github.com/KINGTECHPRO/KING_TPWHATSAPPBOT">
-    <img src="https://img.shields.io/static/v1?label=Author&message=@CHATHURA%20EHELAPE&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=@CHATHURA%20@&color=purple&style=plastic">
 
   </a>
    </a>
   <a href="https://github.com/KINGTECHPRO/KING_TPWHATSAPPBOT">
-    <img src="https://img.shields.io/static/v1?label=Author&message=@GAMING SHEHAN%20EHELAPE&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=@GAMING SHEHAN%20@&color=purple&style=plastic">
 
   </a>
   </p>
