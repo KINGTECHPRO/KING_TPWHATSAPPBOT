@@ -1,0 +1,28 @@
+{
+  "name": "king_techpro",
+  "version": "3.0.2v",
+  "description": "KING_TECHPRO Bot project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+  "main": "./KING_TPWHATSAPPBOT/bot.js",
+  "scripts": {
+    "start": "supervisor -s bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KINGTECHPRO/KING_TPWHATSAPPBOT.git"
+  },
+  "keywords": [
+    "whatsapp"
+  ],
+  "author": "NIRMAL GAMAGE",
+  "developer": "AN Tech",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/KINGTECHPRO/KING_TPWHATSAPPBOT/issues"
+  },
+  "homepage": "https://github.com/KINGTECHPRO/KING_TPWHATSAPPBOT#readme",
+  "dependencies": {
+    "king_techpro-public-2":"1.0.1",
+    "king_techpro-img": "1.0.0",
+    "king_techpro-textlogo-1.0.3": "1.0.3"
+  }
+}
