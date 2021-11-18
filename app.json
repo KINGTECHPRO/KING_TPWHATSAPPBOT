@@ -1,15 +1,15 @@
 {
-    "name": "Queen Amdi 3.0.2v",
+    "name": "KINGTECHPRO 3.0.2v",
     "description": "Queen Amdi is a chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.ibb.co/C6zVqWV/1637216717790logo.png",
-    "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "Queen Amdi"],
+    "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "KING TECHPRO"],
     "repository": "",
     "website":   "https://dashboard.heroku.com/apps/",
     "success_url": "https://dashboard.heroku.com/apps/",
     "stack": "container",
     "env": {
-        "AMDI_SESSION": {
-            "description": "Paste your QR session that you got from https://replit.com/@BlackAmda/Queen-Amdi-QR-Code.",
+        "TECH_SESSION": {
+            "description": "Paste your QR session that you got from https://replit.com/@NIRMALGAMAGE/KINGTECH-PRO-QR-CODE.",
             "required": true
         },
         "SUDO": {
@@ -17,7 +17,7 @@
             "required": false
         },
         "LANGUAGE": {
-            "description": "Enter your language. SI - Sinhala | EN - English | ES - Spanish(ag)",
+            "description": "Enter your language. SI - Sinhala | EN - English | ",
             "required": true,
             "value": "EN"
         },
@@ -132,7 +132,7 @@
         "PANEL_EMOJI": {
             "description": "You can change panel emojis. (Make sure to split emojis with / )",
             "required": true,
-            "value": "📘/📖"
+            "value": "🔰/»"
         },
         "DEBUG": {
             "description": "If you do not know this. Give it up.",
