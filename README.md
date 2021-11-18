@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/C6zVqWV/1637216717790logo.png" width="300" height="300">
+  <img src="https://i.ibb.co/C6zVqWV/1637216717790logo.png" width="400" height="400">
   <h1>🔰@ »KING_TECHPRO BOT @🔰</h1>
 </div>
 <p align="center">
